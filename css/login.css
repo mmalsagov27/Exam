@@ -1,0 +1,27 @@
+body {
+    background-image: url(../img/hh.jpg);
+    
+}
+    
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+    color: #fff;
+    line-height: 1.5em;
+}
+
+.page {
+    margin: 0 auto 15px;
+    max-width: 224px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    background-color: rgba(7, 2, 2, 0.774);
+}
+    
+h1 {
+    color: white;
+    text-align: center;
+}
+

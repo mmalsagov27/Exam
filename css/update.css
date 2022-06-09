@@ -1,0 +1,24 @@
+body {
+    background-image: url(../img/yy.jpg);}
+
+.update {
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+    color: #fff;
+}
+
+.line {
+    margin: 0 auto 15px;
+    max-width: 224px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    background-color: rgba(7, 2, 2, 0.774);
+    line-height: 1.5em;
+}
+    
+h1 {
+   text-align: center;
+    color: white;
+}
+

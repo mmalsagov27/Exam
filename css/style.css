@@ -1,0 +1,28 @@
+body {
+    background-image: url(../img/rrr.jpg);
+}
+
+img{
+    border-radius:55% ;
+}
+
+.login {
+    margin-left: 1154px;
+}
+
+
+.arr {
+    max-width: 35px;
+    margin-left: 298px;
+}
+
+
+table {
+    font-family: sans-serif;
+    border-collapse: separate;
+    color: #ffffff;
+    background: #000000;
+    border: 16px solid #005395;
+    
+}
+
